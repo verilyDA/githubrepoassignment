@@ -1,0 +1,1 @@
+this repo contains assignments.txt, commands.txt, and index.html from a previous assignment. also included is this file explaining that the previous files are located within this file's parent folder.
